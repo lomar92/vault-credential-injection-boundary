@@ -38,4 +38,3 @@ cloud"
 - `aws_subnet_cidr`:                 = ""
 - `aws_access`:                      = ""
 - `aws_secret`:                      = ""
-# vault-credential-injection-boundary
